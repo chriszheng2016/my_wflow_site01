@@ -11,3 +11,7 @@ editor_options:
 Welcome to my research website.
 
 I am Chris zheng. Here is testing project for workflowr package.
+
+Click on this [first analysis](first-analysis.html) to see my results.
+
+Click on this [second analysis](second-analysis.html) to see my results.

@@ -1,0 +1,15 @@
+---
+title: "second-analysis"
+author: "chriszheng2016"
+date: "2020-11-11"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+ plot(pressure)
+```
+
